@@ -1,0 +1,19 @@
+{
+  "name": "GasSafe Rider",
+  "short_name": "GasSafe",
+  "description": "GasSafe Ghana rider app — log cylinder exchanges with foot-ring vs QR proof.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f5f3",
+  "theme_color": "#0d7a3f",
+  "icons": [
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
